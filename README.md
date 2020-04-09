@@ -1,7 +1,8 @@
 # Medical-Report-Generation-Using-X-Ray-Images
 
 ### Overview
-The aim of this project is to generate medical reports from X-ray images. This problem holds a great role when there is a lack of Quality doctors everywhere. This project can be useful in a way that a simple lab technician can take an X-ray, generate impressions and send it to any quality doctor across the globe. It would bring in quality healthcare services across the globe. 
+The aim of this project is to generate medical reports from X-ray images. This problem holds a great role when there is a lack of Quality doctors in remote parts of the world, and just lab technicians could take an X-Ray and send it to doctors anywhere across the globe.  It would bring in quality healthcare services at cheaper rates to parts of world where doctors would take weeks to reach.
+This is my final year Major Project. 
 
 Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde0e845aba9
 #### How Data Looks?
