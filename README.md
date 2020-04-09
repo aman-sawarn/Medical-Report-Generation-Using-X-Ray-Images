@@ -67,4 +67,4 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 1. Screenshots from tensorboard plots 
 2. Model Weights 
 #### Main Colab Notebook Link:  https://colab.research.google.com/drive/1rI46HXctZsYVGe_X5g0HZA24wiZTn1ac
-#### LinkedIn: https://www.linkedin.com/in/aman-s-32494b80/
+#### Blog would be updated at this link after ICLR(International Conference on Learning representations) 2020 Confrence: https://www.medium.com/@sawarn69
