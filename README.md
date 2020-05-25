@@ -15,7 +15,12 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 
 ![alt text](https://github.com/sawarn69/Medical-Report-Generation-Using-X-Ray-Images/blob/master/Outputs/CXR2689_IM-1160-1002001_result.png)
 
-
+#### Notebooks Layout
+1. References have the references used
+2. Workflow has notebooks which were  used for experiments and tuning purposes
+3. Loss plots has different plots for training and validation purposes
+4. Training has various training notebooks
+5. Outputs have output generated from the model
 
 #### Approach To Solve the problem
 
