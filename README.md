@@ -74,7 +74,5 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 
 13. https://arxiv.org/pdf/1502.03044.pdf
 
-#### Updates to be added soon:
-1. Screenshots from tensorboard plots 
-2. Model Weights 
+
 
