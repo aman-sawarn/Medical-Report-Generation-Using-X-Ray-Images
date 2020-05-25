@@ -21,6 +21,8 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 3. Loss plots has different plots for training and validation purposes
 4. Training has various training notebooks
 5. Outputs have output generated from the model
+6. Checkpoints has model weights
+7. Tokenizer has a .pikle file containing key value pairs from the tokenizer's vocabulary
 
 #### Approach To Solve the problem
 
@@ -40,7 +42,10 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 
 4.  Plot the Attention weight and the part it is focusing at every timestep of input. 
 
-
+#### Training loss
+![alt text](https://github.com/sawarn69/Medical-Report-Generation-Using-X-Ray-Images/blob/master/losses_plots/While%20experimenting/epoch_train_loss.jpg)
+#### Validation loss
+![alt text](https://github.com/sawarn69/Medical-Report-Generation-Using-X-Ray-Images/blob/master/losses_plots/While%20experimenting/epoch_val_loss.jpg)
 #### Research-Papers/Solutions/Architectures/Kernels/References
 
 1. https://github.com/wisdal/diagnose-and-explain
@@ -72,5 +77,4 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 #### Updates to be added soon:
 1. Screenshots from tensorboard plots 
 2. Model Weights 
-#### Main Colab Notebook Link:  https://colab.research.google.com/drive/1rI46HXctZsYVGe_X5g0HZA24wiZTn1ac
-#### Blog would be updated at this link after ICLR(International Conference on Learning representations) 2020 Confrence: https://www.medium.com/@sawarn69
+
