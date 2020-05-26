@@ -74,11 +74,7 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 
 13. https://arxiv.org/pdf/1502.03044.pdf
 
-14. https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course
-
-15. https://gist.github.com/UdiBhaskar/9854346018d151d38e6772cbf8f42bba
-
-16. https://gist.github.com/UdiBhaskar/070e666dbafbe35f011528b748b7d4b0
-
-
+#### Updates to be added soon:
+1. Screenshots from tensorboard plots 
+2. Model Weights 
 
