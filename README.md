@@ -22,7 +22,15 @@ Data Source: http://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde
 4. Training has various training notebooks
 5. Outputs have output generated from the model
 6. Checkpoints has model weights
-7. Tokenizer has a .pikle file containing key value pairs from the tokenizer's vocabulary
+7. Tokenizer has a .pickle file containing key value pairs from the tokenizer's vocabulary
+
+#### Folders Layout
+1. Outputs- Has sample outputs
+2. Tokenizer- Has Tokenizer weights stored in .pickle file
+3. Workflow- Has all experiments while before reaching the final model
+4. checkpoints_2/train-Has all encoder decoder layer weights 
+5. training- Has notebook training notebooks and evaluation using BLEU and Rouge scores
+5. losses_plots- Has all training and evaluation plots while training
 
 #### Approach To Solve the problem
 
